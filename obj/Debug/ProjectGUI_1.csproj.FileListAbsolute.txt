@@ -1,0 +1,15 @@
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\bin\Debug\ProjectGUI_1.exe.config
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\bin\Debug\ProjectGUI_1.exe
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\bin\Debug\ProjectGUI_1.pdb
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.csprojAssemblyReference.cache
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\MainWindow.g.cs
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\App.g.cs
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1_MarkupCompile.cache
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1_MarkupCompile.lref
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\MainWindow.baml
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.g.resources
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.Properties.Resources.resources
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.csproj.GenerateResource.cache
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.csproj.CoreCompileInputs.cache
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.exe
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Debug\ProjectGUI_1.pdb

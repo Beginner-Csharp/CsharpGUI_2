@@ -1,0 +1,5 @@
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Release\ProjectGUI_1.csprojAssemblyReference.cache
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Release\MainWindow.g.cs
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Release\App.g.cs
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Release\ProjectGUI_1_MarkupCompile.cache
+C:\Users\NewzCJ\Source\Repos\ProjectGUI_1\ProjectGUI_1\obj\Release\ProjectGUI_1_MarkupCompile.lref
